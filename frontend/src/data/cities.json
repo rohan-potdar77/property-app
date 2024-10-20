@@ -1,0 +1,102 @@
+[
+  {
+    "id": "2",
+    "name": "Mumbai",
+    "state": "Maharashtra"
+  },
+  {
+    "id": "3",
+    "name": "Delhi",
+    "state": "Delhi"
+  },
+  {
+    "id": "4",
+    "name": "Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "id": "5",
+    "name": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "id": "6",
+    "name": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "id": "7",
+    "name": "Chennai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": "8",
+    "name": "Kolkata",
+    "state": "West Bengal"
+  },
+  {
+    "id": "9",
+    "name": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "id": "10",
+    "name": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "id": "11",
+    "name": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "id": "12",
+    "name": "Lucknow",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "13",
+    "name": "Kanpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "id": "14",
+    "name": "Nagpur",
+    "state": "Maharashtra"
+  },
+  {
+    "id": "15",
+    "name": "Patna",
+    "state": "Bihar"
+  },
+  {
+    "id": "16",
+    "name": "Indore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "17",
+    "name": "Thane",
+    "state": "Maharashtra"
+  },
+  {
+    "id": "18",
+    "name": "Bhopal",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "id": "19",
+    "name": "Visakhapatnam",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "20",
+    "name": "Vadodara",
+    "state": "Gujarat"
+  },
+  {
+    "id": "21",
+    "name": "Firozabad",
+    "state": "Uttar Pradesh"
+  }
+]

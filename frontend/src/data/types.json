@@ -1,0 +1,6 @@
+[
+  { "id": 2, "type": "Residential" },
+  { "id": 3, "type": "Commercial" },
+  { "id": 4, "type": "Industrial" },
+  { "id": 5, "type": "Land" }
+]

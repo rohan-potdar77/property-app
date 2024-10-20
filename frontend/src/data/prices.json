@@ -1,0 +1,7 @@
+[
+  { "id": 1, "value": [null, null], "label": "No Filter" },
+  { "id": 2, "value": [1000, 5000], "label": "Rs 1000-5000" },
+  { "id": 3, "value": [5000, 10000], "label": "Rs 5000-10000" },
+  { "id": 4, "value": [10000, 20000], "label": "Rs 10000-20000" },
+  { "id": 5, "value": [20000, null], "label": "Rs 20000-Max" }
+]

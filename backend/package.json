@@ -1,0 +1,19 @@
+{
+  "name": "property-app-backend",
+  "version": "1.0.0",
+  "description": "property application api services",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "rohan potdar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "multer": "^1.4.5-lts.1"
+  }
+}
